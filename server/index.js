@@ -16,7 +16,7 @@ const salt = bcrypt.genSaltSync(10);
 const defaultkey = "asdfe45we45w345wegw345werjktjwertkj";
 const secret = process.env.SECRET || defaultkey;
 
-app.use(cors({ credentials: true, origin: "http://localhost:3000" }));
+app.use(cors({ credentials: true, origin: "https://blog-site-topaz-six.vercel.app" }));
 app.use(express.json());
 app.use(cookieParser());
 app.use("/uploads", express.static(__dirname + "/uploads"));
