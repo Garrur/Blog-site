@@ -185,6 +185,6 @@ Now, both the client and server are installed and running. You can access the fr
 
 📬 Feel free to reach out to us on social media:
 
-- Portfolio: [vijaisuria.github.io](https://vijaisuria.github.io)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/vijaisuria/)
-- Email: vijaisuria87@gmail.com
+
+- LinkedIn: [Utkarsh Raj](https://www.linkedin.com/in/utkarsh-raj-a41174220/)
+- Email: uraj33175@gmail.com
